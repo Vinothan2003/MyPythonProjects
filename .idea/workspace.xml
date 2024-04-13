@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="301d5e14-bdea-4bb7-ac8e-c18e62cc0bb3" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Programs/Python/Python312/Lib/urllib/parse.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/com/mosh/class_function/work_out/bank_system.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2d3AQ7QhENDaOLCYFtYXMrWrgZQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.2D_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Exercise.executor&quot;: &quot;Run&quot;,
+    &quot;Python.abstract_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arm_strong_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.array.executor&quot;: &quot;Run&quot;,
+    &quot;Python.arthematic_magic_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascii_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascii_number_value.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascii_value_number (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.ascii_values.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_system.executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_system_container (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.bank_system_container.executor&quot;: &quot;Run&quot;,
+    &quot;Python.between_numbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.book_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.captalize.executor&quot;: &quot;Run&quot;,
+    &quot;Python.car_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.case_fold.executor&quot;: &quot;Run&quot;,
+    &quot;Python.center.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.class_object.executor&quot;: &quot;Run&quot;,
+    &quot;Python.comparison_magic_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constructor_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.constructor_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.containers (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.containers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.cost_raise_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.creating_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.delete_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictinoary_comprehension_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_emoji.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_phone_no (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.dictionary_phone_no.executor&quot;: &quot;Run&quot;,
+    &quot;Python.divisible_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dog_cat.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dollar_inr.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.duck_typing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.end_with.executor&quot;: &quot;Run&quot;,
+    &quot;Python.expandtabs_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.expection.executor&quot;: &quot;Run&quot;,
+    &quot;Python.expection_handing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.extending_buldin_datatypes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factor_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.factorial_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibanacci_number.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fibonacci_number (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.fibonacci_recursion.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fibonnaic_series.executor&quot;: &quot;Run&quot;,
+    &quot;Python.filter_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.finally_statement.executor&quot;: &quot;Run&quot;,
+    &quot;Python.find_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fizz_buzz.executor&quot;: &quot;Run&quot;,
+    &quot;Python.format_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_keyword_argument.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_parameter_agruments.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function_reusable.executor&quot;: &quot;Run&quot;,
+    &quot;Python.functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.generator_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.getter_setter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.guess_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_good_example.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_program.executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_program_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.inheritance_program_@.executor&quot;: &quot;Run&quot;,
+    &quot;Python.instance_attributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isdigit_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.isnumeric_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.join_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_function (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_function.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.lambda_function_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.largest_number_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comperhension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comperhension_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.list_comprehension.executor&quot;: &quot;Run&quot;,
+    &quot;Python.magic_add_method.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.magic_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.magic_string_method.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map.executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_function (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.map_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.maximum.executor&quot;: &quot;Run&quot;,
+    &quot;Python.member_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.method_overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.mutiple_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.named_tuple.executor&quot;: &quot;Run&quot;,
+    &quot;Python.named_tuple_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.numbers.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.numbers_print.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.object_class.executor&quot;: &quot;Run&quot;,
+    &quot;Python.palindrome.executor&quot;: &quot;Run&quot;,
+    &quot;Python.password (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.password.executor&quot;: &quot;Run&quot;,
+    &quot;Python.path_library.executor&quot;: &quot;Run&quot;,
+    &quot;Python.phone_information.executor&quot;: &quot;Run&quot;,
+    &quot;Python.phone_no.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphism_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.polymorphism_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.power_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.prime_number.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_1 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_2 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.property_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.queue.executor&quot;: &quot;Run&quot;,
+    &quot;Python.raise_exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.read_lines.executor&quot;: &quot;Run&quot;,
+    &quot;Python.return.executor&quot;: &quot;Run&quot;,
+    &quot;Python.reverse_string.executor&quot;: &quot;Run&quot;,
+    &quot;Python.runner_up.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sales.executor&quot;: &quot;Run&quot;,
+    &quot;Python.set.executor&quot;: &quot;Run&quot;,
+    &quot;Python.shopping_bill.executor&quot;: &quot;Run&quot;,
+    &quot;Python.simple_calculator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting (1).executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sorting.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sorting_function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sorting_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stack.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.star.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.sum_of_numbers.executor&quot;: &quot;Run&quot;,
+    &quot;Python.swapping_variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.to_do_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.todo_list.executor&quot;: &quot;Run&quot;,
+    &quot;Python.transcation_manager.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tuples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.unpacking_operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.userinput.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.validation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.value_error_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vehicle_rental_method_overriding.executor&quot;: &quot;Run&quot;,
+    &quot;Python.vowels.executor&quot;: &quot;Run&quot;,
+    &quot;Python.while_loop_game.executor&quot;: &quot;Run&quot;,
+    &quot;Python.word_counter.executor&quot;: &quot;Run&quot;,
+    &quot;Python.write_file.executor&quot;: &quot;Run&quot;,
+    &quot;Python.x.executor&quot;: &quot;Run&quot;,
+    &quot;Python.zip_function.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kabil/PycharmProjects/Basics&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kabil\PycharmProjects\Basics\com\mosh\library\phone" />
+      <recent name="C:\Users\kabil\PycharmProjects\Basics\com\mosh\module_programs\shopping\shopping" />
+      <recent name="C:\Users\kabil\PycharmProjects\Basics\com\mosh\expection" />
+      <recent name="C:\Users\kabil\PycharmProjects\Basics\com\workout\work_out_programs\projects" />
+      <recent name="C:\Users\kabil\PycharmProjects\Basics\com\workout\work_out_programs" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.transcation_manager">
+    <configuration name="transcation_manager" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/mosh/library_management/transcations" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/mosh/library_management/transcations/transcation_manager.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Basics" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/com/mosh/library_management/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/com/mosh/library_management/utils/validation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.transcation_manager" />
+        <item itemvalue="Python.validation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="301d5e14-bdea-4bb7-ac8e-c18e62cc0bb3" name="Changes" comment="" />
+      <created>1709226368991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709226368991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/loops/for_loop/between_numbers.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/loops/nested_loop/numbers_print.py</url>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/loops/nested_loop/star.py</url>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/loops/while_loop/password.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/while_loop/guess_number.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/nested_loop/x.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/hacker_rank/map.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/lambda_function.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/DS_concepts/dictionary.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/DS_concepts/unpacking_operator.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/DS_concepts/list.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/DS_concepts/Exercise.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/maximum.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/recursive_function/factorial_number.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/recursive_function/sum_of_numbers.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/vowels.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/dollar_inr.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/dollar_inr.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/power_number.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/prime_number.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/projects/simple_calculator.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/fibonnaic_series.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/expection/raise_exception.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/class_function/work_out/magic_add_method.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/class_function/work_out/magic_add_method.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/class_function/work_out/fibonacci_number.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/class_function/work_out/bank_system.py</url>
+          <line>110</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/mosh/class_function/work_out/bank_system.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/work_out_programs/projects/todo_list.py</url>
+          <line>69</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/com/workout/dictionary.py</url>
+          <line>15</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
