@@ -7,7 +7,7 @@ class History:
         self.transaction_history = []
         self.transaction_outsider_history = []
 
-    @staticmethod
+    @staticmethod 
     def date_history():
         date = datetime.now()
         return date.strftime("%Y-%b-%d")
