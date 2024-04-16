@@ -1,6 +1,6 @@
 [
   {
-    "name": "vinothannc",
+    "name": "vinothan nc",
     "age": 20,
     "gender": "male",
     "contact_no": 9789619430,
@@ -9,21 +9,12 @@
     "amount": 9000
   },
   {
-    "name": "geethakumarim",
+    "name": "akshaya j",
     "age": 22,
     "gender": "female",
-    "contact_no": 9778701287,
+    "contact_no": 9789619430,
     "aadhar_no": 333344445555,
     "package_selection": "M",
-    "amount": 9000
-  },
-  {
-    "name": "akashkumarn",
-    "age": 20,
-    "gender": "Male",
-    "contact_no": 9789619430,
-    "aadhar_no": 999988887777,
-    "package_selection": "Y",
-    "amount": 20000
+    "amount": 3000
   }
 ]
