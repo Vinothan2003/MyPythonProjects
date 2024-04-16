@@ -1,0 +1,20 @@
+[
+  {
+    "name": "vinothan nc",
+    "age": 20,
+    "gender": "male",
+    "contact_no": 9789619430,
+    "aadhar_no": 111122223333,
+    "package_selection": "M",
+    "amount": 9000
+  },
+  {
+    "name": "akshaya j",
+    "age": 22,
+    "gender": "female",
+    "contact_no": 9789619430,
+    "aadhar_no": 333344445555,
+    "package_selection": "M",
+    "amount": 3000
+  }
+]
