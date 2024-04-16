@@ -1,5 +1,6 @@
 from gym.utils.validation import error_msg, greetings, Verification
 from gym.members_data.member_details import GymMembers
+from datetime import datetime
 
 
 def package_selection(response):
@@ -7,10 +8,10 @@ def package_selection(response):
         if response == "M":
             print("""
             -- GYM MONTHLY CHARGE --
-            1 Month --> ₹ 1000 (MIN)
-            3 Months --> ₹ 3000
-            6 Months --> ₹ 6000
-            9 Months --> ₹ 9000 (MAX)
+            1 Month  --> ₹ 1,000 (MIN)
+            3 Months --> ₹ 3,000
+            6 Months --> ₹ 6,000
+            9 Months --> ₹ 9,000 (MAX)
             -------------------------
             """)
             user_payment_month = int(input("How Many Months : "))
@@ -25,9 +26,9 @@ def package_selection(response):
         elif response == "Y":
             print("""
             -- GYM YEARLY CHARGE --
-            1 Year --> ₹ 1000 (MIN)
-            2 Years --> ₹ 3000
-            3 Years --> ₹ 9000 (MAX)
+            1 Year  --> ₹ 10,000 (MIN)
+            2 Years --> ₹ 30,000
+            3 Years --> ₹ 90,000 (MAX)
             -------------------------
             """)
             user_payment_yearly = int(input("How Many Years : "))
@@ -50,9 +51,9 @@ class Members:
 
     def new_member_ship(self):
         try:
-            user_name = input("--> Your Name : ").lower().strip().replace(" ", "")
+            user_name = input("--> Your Name : ").lower().strip()
             user_age = int(input("--> Your Age : "))
-            user_gender = input("--> Your Gender ( Male | Female ) : ")
+            user_gender = input("--> Your Gender ( Male | Female ) : ").lower().strip()
             user_contact_no = int(input("--> Your Contact Number : "))
             user_aadhar_no = int(input("--> Your Aadhar Number : "))
             result = Verification.details_validation(name=user_name, age=user_age, gender=user_gender,
@@ -74,6 +75,8 @@ def main() -> None:
 
     while True:
         if user_response == 'no':
+            greetings("NCV GYM")
+            print("--- Welcome Champ ---".center(31))
             user_input = input("Do Have Member-ship ( Yes | No ) : ").lower().strip()
             if user_input == 'yes':
                 member.member_ship()
@@ -82,7 +85,7 @@ def main() -> None:
             else:
                 error_msg("Invalid Input")
         elif user_response == 'yes':
-            greetings("Thank You")
+            greetings("Leaving NCV GYM")
             quit()
         else:
             error_msg("Invalid Action")

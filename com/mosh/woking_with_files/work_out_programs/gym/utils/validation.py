@@ -6,6 +6,7 @@ class Verification:
 
     @staticmethod
     def details_validation(name: str, age: int, gender: str, contact_no: int, aadhar_no: int):
+        name = name.replace(" ", "")
         if not name.isalpha():
             error_msg("Provide correct name")
             return False
@@ -39,7 +40,9 @@ class Verification:
     def payment_validation(required_amount, user_amount):
         if user_amount != required_amount:
             error_msg("Invalid Amount")
-        return user_amount
+            return False
+        greetings("Amount Paid Successfully")
+        return True
 
 
 def greetings(value):
