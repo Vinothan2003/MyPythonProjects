@@ -1,6 +1,6 @@
 from gym.utils.validation import error_msg, greetings, Verification
 from gym.members_data.member_details import GymMembers
-from datetime import datetime
+from datetime import *
 
 
 def package_selection(response):
@@ -21,14 +21,18 @@ def package_selection(response):
                 print(f"Need to Pay : ₹{user_payment_month * 1000: ,}")
                 user_paid_amount = int(input("--> Amount : ₹"))
                 if Verification.payment_validation(required_amount=amount, user_amount=user_paid_amount):
-                    return user_paid_amount
+                    today = date.today()
+                    new_month = (today.month + user_payment_month) % 12
+                    new_year = today.year + ((today.month + user_payment_month) // 12)
+                    validity_date = date(year=new_year, month=new_month, day=today.day).isoformat()
+                    return user_paid_amount, validity_date
 
         elif response == "Y":
             print("""
             -- GYM YEARLY CHARGE --
             1 Year  --> ₹ 10,000 (MIN)
-            2 Years --> ₹ 30,000
-            3 Years --> ₹ 90,000 (MAX)
+            2 Years --> ₹ 20,000
+            3 Years --> ₹ 30,000 (MAX)
             -------------------------
             """)
             user_payment_yearly = int(input("How Many Years : "))
@@ -38,7 +42,10 @@ def package_selection(response):
                 print(f"Need to Pay : ₹{user_payment_yearly * 10000: ,}")
                 user_paid_amount = int(input("--> Amount : ₹"))
                 if Verification.payment_validation(required_amount=amount, user_amount=user_paid_amount):
-                    return user_paid_amount
+                    today = date.today()
+                    validity_year = today.year + user_payment_yearly
+                    validity_date = date(year=validity_year, month=today.month, day=today.day).isoformat()
+                    return user_paid_amount, validity_date
 
     except ValueError:
         print("-- Enter proper value ( Amount | Months )--")
@@ -47,9 +54,10 @@ def package_selection(response):
 class Members:
 
     def member_ship(self):
-        pass
+        gym_id = int(input("> Gym-ID : "))
 
     def new_member_ship(self):
+
         try:
             user_name = input("--> Your Name : ").lower().strip()
             user_age = int(input("--> Your Age : "))
@@ -63,7 +71,8 @@ class Members:
                 user_package_selection = input("Payment Selection ( Month(M) | Year(Y) ) : ").upper().strip()
                 user_amount = package_selection(user_package_selection)
                 GymMembers.new_member_data(name=user_name, age=user_age, gender=user_gender, contact_no=user_contact_no,
-                                           aadhar_no=user_aadhar_no, package=user_package_selection, amount=user_amount)
+                                           aadhar_no=user_aadhar_no, package=user_package_selection,
+                                           amount=user_amount[0], valid_date=user_amount[1])
 
         except ValueError:
             print("-- Provide proper value for required fields --")
