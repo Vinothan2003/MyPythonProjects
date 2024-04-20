@@ -24,13 +24,20 @@ class GymDataBase:
                                'package_selection': row[6], 'amount': row[7], 'Validity_date': row[8]} for row in
                               cursor]
 
-        """with open("gym/data_base/all_members_details.json", 'r') as read_json:
-            existing_data = json.load(read_json)
-
-        existing_data.extend(member_details)"""
-
         with open("gym/data_base/all_members_details.json", 'w') as write_json:
             json.dump(member_details, write_json)
+
+    def login_info(self, gym_id, log_date, log_time, log_session):
+        with sqlite3.connect("gym/data_base/login_details.sqlite3") as file:
+            command = "INSERT INTO Login_Details VALUES (?, ?, ?, ?)"
+            file.execute(command, (gym_id, log_date, log_time, log_session))
+            file.commit()
+
+    def update_validity(self, gym_id, package, amount, validity):
+        with sqlite3.connect("gym/data_base/member.sqlite3") as update_file:
+            update_command = "UPDATE Gym_Members SET package = ?, amount = ?, valid_date = ?  where id = ?"
+            update_file.execute(update_command, (package, amount, validity, gym_id))
+            update_file.commit()
 
 
 if __name__ == '__main__':

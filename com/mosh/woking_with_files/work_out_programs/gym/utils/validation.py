@@ -50,5 +50,9 @@ def greetings(value):
     print("-" * 10, value, "-" * 10)
 
 
+def msg(value):
+    print("-" * 5, value, "-" * 5)
+
+
 def error_msg(value):
     print("-" * 3, value, "-" * 3)
