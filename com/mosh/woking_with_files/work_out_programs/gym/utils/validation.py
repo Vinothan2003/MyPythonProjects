@@ -6,14 +6,15 @@ class Verification:
 
     @staticmethod
     def details_validation(name: str, age: int, gender: str, contact_no: int, aadhar_no: int):
-        name = name.replace(" ", "")
-        if not name.isalpha():
+        valid_name = name.replace(" ", "")
+        valid_genders = ['male', 'female']
+        if not valid_name.isalpha():
             error_msg("Provide correct name")
             return False
         if not age > 13:
             error_msg("Age must be greater than 13\nOtherwise your not allowed to gym")
             return False
-        if not gender.isalpha() and gender not in ['male', 'female']:
+        if not gender.isalpha() or gender not in valid_genders:
             error_msg("Provide correct gender")
             return False
         if len(str(contact_no)) != 10:
@@ -47,6 +48,10 @@ class Verification:
 
 def greetings(value):
     print("-" * 10, value, "-" * 10)
+
+
+def msg(value):
+    print("-" * 5, value, "-" * 5)
 
 
 def error_msg(value):
